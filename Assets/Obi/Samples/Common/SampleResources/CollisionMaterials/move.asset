@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b9c84cdb747944209b1c8753933c5db, type: 3}
   m_Name: move
   m_EditorClassIdentifier: 
-  dynamicFriction: 0
+  dynamicFriction: 0.01
   staticFriction: 0
   stickiness: 0
   stickDistance: 0
   frictionCombine: 1
   stickinessCombine: 1
   rollingContacts: 1
-  rollingFriction: -1
+  rollingFriction: 0

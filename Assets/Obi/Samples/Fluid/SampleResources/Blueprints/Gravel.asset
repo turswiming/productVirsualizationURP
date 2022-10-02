@@ -10054,6 +10054,6 @@ MonoBehaviour:
     batches: []
   groups: []
   capacity: 1000
-  resolution: 6
+  resolution: 48
   restDensity: 1
-  randomness: 30
+  randomness: 10
